@@ -12,9 +12,6 @@ public class exercicio_14 {
         int dia_total;
         int dias_restantate;
 
-
-
-
         switch (mes){
             case 01:
                 dias_restantate = 359 - dia;
